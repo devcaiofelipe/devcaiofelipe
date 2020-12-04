@@ -1,3 +1,3 @@
 # Oi bem vindo ao meu Github 👋
 
-![imagem](a.png)
+![imagem](a.jpg)
