@@ -1,4 +1,4 @@
-#### Bem-vindo ao meu Github :raised_hand:
+## Bem-vindo ao meu Github :raised_hand:
 
 sou programador backend júnior 
 com foco em soluções web utilizando
@@ -8,4 +8,4 @@ com foco em soluções web utilizando
 * mongodb
 * redis
 
-##### Segue abaixo a lista dos meus projetos pessoais
+### Segue abaixo a lista dos meus projetos pessoais
