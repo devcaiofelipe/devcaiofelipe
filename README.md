@@ -1,3 +1,3 @@
-# Oi, bem-vindo ao meu Github         |  Solarized Ocean
-:-------------------------:|:-------------------------:
+# Oi, bem-vindo ao meu Github 
+
 |  ![](img.jpg)
