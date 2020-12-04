@@ -4,7 +4,7 @@ sou programador back-end júnior com foco em soluções web utilizando
 
 * nodejs
 * express
-* postgreSQL
+* postgresql
 * mongodb
 * redis
 
