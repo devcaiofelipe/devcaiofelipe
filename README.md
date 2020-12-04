@@ -1,4 +1,4 @@
-#### Bem-vindo ao meu Github 
+#### Bem-vindo ao meu Github :raised_hand:
 
 sou programador backend júnior 
 com foco em soluções web utilizando
