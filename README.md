@@ -1,3 +1,3 @@
-# Oi bem vindo ao meu Github 👋 | ![imagem](a.jpg)
-
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](a.jpg)  |  ![](a.jpg)
