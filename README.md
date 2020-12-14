@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu Github :wave:
 
-sou programador back-end júnior com foco em soluções web utilizando
+Sou programador back-end júnior com foco em soluções web utilizando
 
 * nodejs
 * express
