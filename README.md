@@ -8,7 +8,7 @@ Sou programador back-end tenho experiências com as seguintes techs...
 * Restify
 * NestJS
 * TypeORM
-* Mongose
+* Mongoose
 * PostgreSQL
 * MySQL
 * MongoDB
