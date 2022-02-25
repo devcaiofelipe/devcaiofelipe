@@ -14,4 +14,4 @@ Sou programador back-end tenho experiências com as seguintes techs...
 * MongoDB
 * Redis
 
-### Segue abaixo a lista dos meus projetos pessoais
+### Segue abaixo a lista dos meus projetos pessoais :point_down: :point_down:
