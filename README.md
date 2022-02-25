@@ -11,7 +11,7 @@ Sou programador back-end tenho experiências com as seguintes techs...
 * Mongose
 * PostgreSQL
 * MySQL
-* Mongodb
+* MongoDB
 * Redis
 
 ### Segue abaixo a lista dos meus projetos pessoais
