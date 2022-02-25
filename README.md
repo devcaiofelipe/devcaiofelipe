@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu Github :wave:
 
-Sou programador back-end tenho experiencias com
+Sou programador back-end tenho experiencias com as seguintes techs...
 
 * NodeJS
 * Express
@@ -8,8 +8,8 @@ Sou programador back-end tenho experiencias com
 * NestJS
 * TypeORM
 * Mongose
-* Postgresql
-* Mysql
+* PostgreSQL
+* MySQL
 * Mongodb
 * Redis
 
