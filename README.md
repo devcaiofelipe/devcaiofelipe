@@ -2,15 +2,15 @@
 
 Sou programador back-end tenho experiencias com
 
-* nodejs
-* express
-* restify
-* nestjs
-* typeorm
-* mongose
-* postgresql
-* mysql
-* mongodb
-* redis
+* NodeJS
+* Express
+* Restify
+* NestJS
+* TypeORM
+* Mongose
+* Postgresql
+* Mysql
+* Mongodb
+* Redis
 
 ### Segue abaixo a lista dos meus projetos pessoais
