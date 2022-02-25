@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu Github :wave:
 
-Sou programador back-end tenho experiencias com as seguintes techs...
+Sou programador back-end tenho experiências com as seguintes techs...
 
 * NodeJS
 * TypeScript
