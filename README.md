@@ -4,6 +4,7 @@ Sou programador back-end tenho experiências com as seguintes techs...
 
 * NodeJS
 * TypeScript
+* Jest
 * Express
 * Restify
 * NestJS
