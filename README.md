@@ -11,6 +11,7 @@ Sou programador back-end, tenho experiência com as seguintes tecnologias:
 * Restify
 * NestJS
 * TypeORM
+* Sequelize
 * Mongoose
 * PostgreSQL
 * MySQL
