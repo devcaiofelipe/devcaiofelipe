@@ -2,7 +2,7 @@
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcaiofelipe&show_icons=true&theme=default)
 
-Sou programador back-end tenho experiências com as seguintes techs...
+Sou programador back-end tenho experiência com as seguintes tecnologias:
 
 * NodeJS
 * TypeScript
