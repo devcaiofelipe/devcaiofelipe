@@ -1,5 +1,7 @@
 ## Bem-vindo ao meu Github :wave:
 
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcaiofelipe&show_icons=true&theme=dracula)
+
 Sou programador back-end tenho experiências com as seguintes techs...
 
 * NodeJS
