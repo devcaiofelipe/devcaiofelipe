@@ -15,5 +15,5 @@ Sou programador back-end tenho experiências com as seguintes techs...
 * MongoDB
 * Redis
 
-### Segue abaixo a lista do meu linkedin e dos meus projetos pessoais :point_down: :point_down:
+### Segue abaixo a lista do meu LinkedIn e dos meus projetos pessoais :point_down: :point_down:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiofelipe/)
