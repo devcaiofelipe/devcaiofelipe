@@ -1,4 +1,4 @@
-## Bem-vindo ao meu Github :wave:
+## Bem-vindo ao meu Github :wave: :wave:
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcaiofelipe&show_icons=true&theme=default)
 
