@@ -6,17 +6,18 @@ Sou programador back-end, tenho experiência com as seguintes tecnologias:
 
 * NodeJS
 * TypeScript
+* NestJS
+* PostgreSQL
+* PrismaORM
+* Redis
 * Jest
 * Express
 * Restify
-* NestJS
 * TypeORM
-* Sequelize
+* SequelizeORM
 * Mongoose
-* PostgreSQL
 * MySQL
 * MongoDB
-* Redis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiofelipe/)
 
