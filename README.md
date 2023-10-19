@@ -1,4 +1,4 @@
-## Bem-vindo ao meu Github :wave: :wave:  🇧🇷
+## Bem-vindo ao meu Github :wave: :wave:  🇧🇷 🚀
 
 ```
 const caio = BackendDeveloper implements HardCoding {
@@ -14,7 +14,7 @@ while(true) {
 }
 ```
 
-## 🛠️ My toolbox:
+## 🛠️ Minhas ferramentas:
 * NodeJS
 * TypeScript
 * NestJS
