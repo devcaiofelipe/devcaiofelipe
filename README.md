@@ -1,23 +1,26 @@
-## Bem-vindo ao meu Github :wave: :wave:
+## Bem-vindo ao meu Github :wave: :wave:  🇧🇷
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcaiofelipe&show_icons=true&theme=default)
+```
+const caio = BackendDeveloper implements HardCoding {
+    name = 'Caio Felipe Amancio da Silva',
+    role = 'Backend Developer',
+    country = 'Brazil',
+    currentJob = "Backend Developer Pleno",
+    goal = "Software Architect"
+}
 
-Sou programador back-end, tenho experiência com as seguintes tecnologias:
+while(true) {
+   caio.code()
+}
+```
 
+## 🛠️ My toolbox:
 * NodeJS
 * TypeScript
 * NestJS
 * PostgreSQL
 * PrismaORM
 * Redis
-* Jest
-* Express
-* Restify
-* TypeORM
-* SequelizeORM
-* Mongoose
-* MySQL
-* MongoDB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiofelipe/)
 
