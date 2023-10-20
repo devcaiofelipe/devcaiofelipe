@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu Github :wave: :wave: 🚀
 
 ```
-const caio = BackendDeveloper implements HardCoding {
+const caio = new BackendDeveloper implements HardCoding {
     name = 'Caio Felipe Amancio da Silva',
     role = 'Backend Developer',
     country = 'Brazil',
@@ -9,7 +9,7 @@ const caio = BackendDeveloper implements HardCoding {
     goal = "Software Architect"
 }
 
-while(true) {
+while (true) {
    caio.code()
 }
 ```
